@@ -9,3 +9,4 @@ Lib/*
 bin/
 bin/*
 lib64
+.gitignore

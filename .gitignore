@@ -6,4 +6,6 @@ Lib/*
 .git/
 .git/*
 .pyvenv.cfg
-
+bin/
+bin/*
+lib64

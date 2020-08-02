@@ -1,6 +1,9 @@
 Include/
+Scripts/
 Scripts/*
+Lib/
 Lib/*
+.git/
 .git/*
 .pyvenv.cfg
 
